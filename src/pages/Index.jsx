@@ -3,8 +3,8 @@ import { FaNewspaper, FaChartLine, FaInfoCircle } from "react-icons/fa";
 
 const Index = () => {
   return (
-    <Container maxW="container.xl" p={0}>
-      <Flex as="nav" bg="brand.800" color="white" p={4} align="center">
+    <Container maxW="container.xl" p={0} bg="#F3F2EF">
+      <Flex as="nav" bg="#003366" color="white" p={4} align="center">
         <Heading size="lg">Financial Times</Heading>
         <Spacer />
         <HStack spacing={8}>
